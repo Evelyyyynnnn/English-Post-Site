@@ -1,18 +1,18 @@
 const CONFIG = {
 
-  HEADER_BUTTON_1_TITLE: 'Github开源',
+  HEADER_BUTTON_1_TITLE: 'Github',
   HEDEAR_BUTTON_1_URL: 'https://github.com/Viiiikedy?tab=repositories',
 
-  HEADER_BUTTON_2_TITLE: '作者博客',
+  HEADER_BUTTON_2_TITLE: 'Blog',
   HEDEAR_BUTTON_2_URL: 'https://vicky-post-site.vercel.app/',
 
   // 首页大图英雄板块
   HERO_TITLE_1: 'Vicky Dou',
-  HERO_P_1: '一个喜欢折腾的商科生',
-  HERO_BUTTON_1_TEXT: '精彩视频',
+  HERO_P_1: 'Stay Foolish,Stay Hungry',
+  HERO_BUTTON_1_TEXT: 'Video Clips',
   HERO_BUTTON_1_LINK: 'https://vicky-youtube-video.netlify.app',
-  HERO_BUTTON_2_TEXT: '更多语言',
-  HERO_BUTTON_2_LINK: 'https://post-site-english.vercel.app/',
+  HERO_BUTTON_2_TEXT: 'More Language',
+  HERO_BUTTON_2_LINK: 'https://vicky-post-site.vercel.app/',
   HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
